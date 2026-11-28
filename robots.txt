@@ -1,0 +1,3 @@
+# Prévia: páginas HTML contêm noindex. Permitir leitura do noindex pelos robôs.
+User-agent: *
+Allow: /

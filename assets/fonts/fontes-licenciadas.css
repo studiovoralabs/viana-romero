@@ -1,0 +1,6 @@
+/* V06: arquivos licenciados opcionais, não incluídos. */
+@font-face { font-family: 'FH Total Display'; src: local('FH Total Display Light'), url('FH-Total-Display-Light.woff2') format('woff2'); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FH Total Display'; src: local('FH Total Display Regular'), local('FH Total Display'), url('FH-Total-Display-Regular.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Times Now'; src: local('Times Now Italic'), url('Times-Now-Italic.woff2') format('woff2'); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Suisse Intl'; src: local('Suisse Intl Regular'), url('Suisse-Intl-Regular.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Suisse Intl'; src: local('Suisse Intl Medium'), url('Suisse-Intl-Medium.woff2') format('woff2'); font-weight: 500 700; font-style: normal; font-display: swap; }
